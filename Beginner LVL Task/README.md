@@ -6,15 +6,15 @@ Welcome to the **ShadowFox Data Science Internship** visualization documentation
 ## 📁 Repository Structure
 
 📁 ShadowFox/Beginner LVL Task/
-├── 📄 Library Overview.md # 🎨 Deep dive into Matplotlib & Seaborn
-├── 📄 Graph Types with code.md # 📊 Interactive visualization gallery
-├── 📄 Comparison.md # ⚖️ Head-to-head library comparison
-├── 📄 Resources.md # 📚 Learning resources & references
-├── 📄 README.md # 🚀 Project guide (you are here!)
-├── 📄 requirements.txt # 🎯 Your visualization power pack! ⚡
-└── 📄 .gitignore # 🛡️ Your digital bouncer! 🚫
-
-
+```
+├── 📄 Library Overview.md       # 🎨 Deep dive into Matplotlib & Seaborn
+├── 📄 Graph Types with code.md  # 📊 Interactive visualization gallery
+├── 📄 Comparison.md             # ⚖️ Head-to-head library comparison
+├── 📄 Resources.md              # 📚 Learning resources & references
+├── 📄 README.md                 # 🚀 Project guide (you are here!)
+├── 📄 requirements.txt          # 🎯 Your visualization power pack! ⚡
+└── 📄 .gitignore                 # 🛡️ Your digital bouncer! 🚫
+```
 ## 🎯 Project Mission
 Based on the **ShadowFox Internship Task Requirements (Beginner Level)**, this project aims to:
 1. 📚 Create comprehensive documentation for two essential Python visualization libraries
@@ -47,3 +47,4 @@ Install all dependencies at once:
 ```bash
 
 pip install -r requirements.txt
+
