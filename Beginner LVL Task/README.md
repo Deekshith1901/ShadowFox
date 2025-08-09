@@ -12,8 +12,7 @@ Welcome to the **ShadowFox Data Science Internship** visualization documentation
 ├── 📄 Comparison.md             # ⚖️ Head-to-head library comparison
 ├── 📄 Resources.md              # 📚 Learning resources & references
 ├── 📄 README.md                 # 🚀 Project guide (you are here!)
-├── 📄 requirements.txt          # 🎯 Your visualization power pack! ⚡
-└── 📄 .gitignore                 # 🛡️ Your digital bouncer! 🚫
+└── 📄 requirements.txt          # 🎯 Your visualization power pack! ⚡
 ```
 ## 🎯 Project Mission
 Based on the **ShadowFox Internship Task Requirements (Beginner Level)**, this project aims to:
@@ -47,4 +46,5 @@ Install all dependencies at once:
 ```bash
 
 pip install -r requirements.txt
+
 
