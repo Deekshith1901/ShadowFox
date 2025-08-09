@@ -4,7 +4,8 @@
 Welcome to the **ShadowFox Data Science Internship** visualization documentation repository! 🎨 This project is a comprehensive guide to two powerhouse Python visualization libraries: **Matplotlib** and **Seaborn**. Designed for beginners and intermediate learners, this documentation will transform you from a visualization novice to a data storytelling artist! 🎭
 
 ## 📁 Repository Structure
-📁 shadowfox-visualization-docs/
+
+📁 ShadowFox/Beginner LVL Task/
 ├── 📄 Library Overview.md # 🎨 Deep dive into Matplotlib & Seaborn
 ├── 📄 Graph Types with code.md # 📊 Interactive visualization gallery
 ├── 📄 Comparison.md # ⚖️ Head-to-head library comparison
@@ -44,4 +45,5 @@ This documentation focuses on two visualization champions:
 ### 💻 Option 2: Local Setup
 Install all dependencies at once:
 ```bash
+
 pip install -r requirements.txt
