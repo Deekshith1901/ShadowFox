@@ -1,47 +1,111 @@
-# 🚀 ShadowFox Data Science Internship: Visualization Mastery 📊
+# 🚀 ShadowFox Data Science Internship – Beginner & Intermediate Tasks
 
 ## 🌟 Project Overview
-Welcome to the **ShadowFox Data Science Internship** visualization documentation repository! 🎨 This project is a comprehensive guide to two powerhouse Python visualization libraries: **Matplotlib** and **Seaborn**. Designed for beginners and intermediate learners, this documentation will transform you from a visualization novice to a data storytelling artist! 🎭
+
+This repository contains my completed **Beginner** and **Intermediate** tasks from the **ShadowFox Data Science Internship**.
+
+* ✅ **Beginner Task**: Visualization Library Documentation (Matplotlib & Seaborn)
+* ✅ **Intermediate Task**: Delhi AQI Analysis Dashboard (Air Quality Data Exploration)
+
+Both tasks demonstrate **data visualization, analysis, and storytelling skills** using Python.
+
+---
 
 ## 📁 Repository Structure
-📁 shadowfox-visualization-docs/
-├── 📄 Library Overview.md # 🎨 Deep dive into Matplotlib & Seaborn
-├── 📄 Graph Types with code.md # 📊 Interactive visualization gallery
-├── 📄 Comparison.md # ⚖️ Head-to-head library comparison
-├── 📄 Resources.md # 📚 Learning resources & references
-├── 📄 README.md # 🚀 Project guide (you are here!)
-├── 📄 requirements.txt # 🎯 Your visualization power pack! ⚡
-└── 📄 .gitignore # 🛡️ Your digital bouncer! 🚫
 
+```
+ShadowFox/
+├── Beginner-LVL-Task/
+│   ├── Library Overview.md
+│   ├── Graph Types with code.md
+│   ├── Comparison.md
+│   ├── Resources.md
+│   └── README.md   # Beginner task guide
+│
+├── Intermediate-Task/
+│   ├── Delhiaqi.csv
+│   ├── Delhi_AQI_Analysis.ipynb
+│   ├── pm2_5_trend.png
+│   └── README.md   # Intermediate task guide
+│
+├── LICENSE
+└── README.md       # Combined project guide (you are here)
+```
 
-## 🎯 Project Mission
-Based on the **ShadowFox Internship Task Requirements (Beginner Level)**, this project aims to:
-1. 📚 Create comprehensive documentation for two essential Python visualization libraries
-2. 🎨 Provide practical, copy-paste-ready code examples
-3. ⚖️ Compare libraries to help users make informed choices
-4. 🚀 Curate high-quality learning resources for continued growth
+---
 
-## 🏆 Featured Libraries
-This documentation focuses on two visualization champions:
+## 🎯 Beginner Task: Visualization Documentation
 
-### 🐍 Matplotlib: The Foundation
-- **🎭 Role**: Python's original visualization library
-- **🔧 Superpower**: Unlimited customization and precision
-- **🎯 Best For**: Scientific plotting, custom visualizations, publication-quality figures
+### 🏆 Objective
 
-### 🦚 Seaborn: The Statistical Artist
-- **🎭 Role**: High-level statistical visualization library
-- **🔧 Superpower**: Beautiful defaults and statistical functions
-- **🎯 Best For**: Exploratory data analysis, statistical storytelling, quick insights
+Document two essential Python visualization libraries: **Matplotlib** and **Seaborn**.
 
-## 🛠️ Installation
+### 📖 Features
 
-### 🌐 Option 1: Run in Colab (Recommended - No Installation!)
-- **Matplotlib Examples**: [Open in Colab](https://colab.research.google.com/drive/1_phbaeXpiDpD8TH0HzxBDrOQarQCfZgA?usp=sharing)
-- **Seaborn Examples**: [Open in Colab](https://colab.research.google.com/drive/1_0b0MgIv9SZW5o09Qi2pB_1G11rUKteD?usp=sharing)
-- Just click the link and start coding immediately! 🚀
+* 📚 **Library Overview**: Purpose & use cases
+* 📊 **Graph Types**: Line, scatter, bar, histogram, pie, heatmap, etc.
+* ⚖️ **Comparison**: Strengths & weaknesses of each library
+* 🚀 **Code Snippets**: Beginner-friendly, copy-paste ready
+* 📚 **Resources**: Curated learning links
 
-### 💻 Option 2: Local Setup
-Install all dependencies at once:
-```bash
-pip install -r requirements.txt
+### 🐍 Libraries Covered
+
+* **Matplotlib** → Customizable, publication-quality plots
+* **Seaborn** → Beautiful defaults & quick statistical insights
+
+👉 [Open Matplotlib Examples in Colab](https://colab.research.google.com/drive/1_phbaeXpiDpD8TH0HzxBDrOQarQCfZgA?usp=sharing)
+👉 [Open Seaborn Examples in Colab](https://colab.research.google.com/drive/1_0b0MgIv9SZW5o09Qi2pB_1G11rUKteD?usp=sharing)
+
+---
+
+## 🎯 Intermediate Task: Delhi AQI Analysis
+
+### 🏆 Objective
+
+Perform an **Air Quality Index (AQI) analysis** for Delhi, focusing on pollutants such as **PM2.5 & PM10**, seasonal trends, and insights.
+
+### 📖 Features
+
+* 📅 Daily pollutant level analysis
+* 📈 Trend visualization (`pm2_5_trend.png`)
+* 🧠 Time-series grouping & aggregation
+* 📊 Clean & structured Jupyter Notebook: `Delhi_AQI_Analysis.ipynb`
+* 📂 Dataset included: `Delhiaqi.csv`
+
+### ⚙️ Tech Stack
+
+| Tool         | Purpose                       |
+| ------------ | ----------------------------- |
+| `Python`     | Core programming language     |
+| `Pandas`     | Data cleaning & analysis      |
+| `Matplotlib` | Plotting & visualization      |
+| `Seaborn`    | Statistical visualizations    |
+| `Jupyter`    | Interactive analysis notebook |
+
+---
+
+## 🎯 Learning Outcomes
+
+Through these tasks, I:
+
+* Practiced **data cleaning & time-series analysis**
+* Learned **visualization best practices**
+* Built a **real-world environmental dataset analysis**
+* Strengthened skills in **Python, Pandas, Matplotlib, Seaborn**
+* Documented projects in a **professional GitHub style**
+
+---
+
+## 👤 Author
+
+**Deekshith Mamidi**
+🎓 Data Science Intern @ ShadowFox
+📍 India
+
+---
+
+## 🙏 Acknowledgements
+
+Thanks to **ShadowFox** for the internship opportunity and project guidance.
+
+---
