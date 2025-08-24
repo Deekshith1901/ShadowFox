@@ -1,5 +1,8 @@
 # SHADOWFOX-TASKS-INTERMEDIATE-
 🚀 Interactive Pollution Data Dashboard 📊 This project visualizes air pollution trends using real-time datasets. It analyzes daily pollutant levels (PM2.5, PM10) and generates clean, exportable graphs for reports or awareness. Built using Python, Pandas, Matplotlib, and Seaborn in Jupyter.
+
+---
+
 # 🌍 Interactive Pollution Data Dashboard
 
 This project visualizes air pollution trends using real-time datasets. Built in **Python with Jupyter Notebook**, it calculates and displays daily averages of key pollutants like PM2.5 and PM10. It allows users to analyze trends interactively and **exports graphs** for LinkedIn, GitHub reports, or public awareness.
@@ -51,7 +54,7 @@ Below is a sample plot generated and exported:
 ## 🚀 How to Use
 
 1. Clone or download this repository.
-2. Open `Pollution_Dashboard.ipynb` in Jupyter Notebook.
+2. Open `Delhi_AQI_Analysis.ipynb` in Jupyter Notebook.
 3. Run all cells in order.
 4. Use dropdown to select pollutants like `pm2_5`, `pm10`, etc.
 5. Graphs will be displayed and also saved automatically as images.
@@ -68,27 +71,3 @@ This project is ideal for beginners looking to:
 - Export professional graphs for GitHub/LinkedIn
 
 ---
-
-## 👤 Author
-
-**Ritesh Paithankar**  
-🎓 Data Science Intern at Shadow Fox  
-📍 India  
-📬 riteshpaithankar00@gmail.com
-🔗 [LinkedIn] www.linkedin.com/in/ritesh-paithankar-4b43a828a
-
----
-
-## 🙏 Acknowledgements
-
-Big thanks to **Shadow Fox** for the internship opportunity and mentoring support.  
-This dashboard is developed as **Task 2** of the **CodSoft Data Science Internship**.
-
----
-
-## 📄 License
-
-This project is released under the [MIT License](LICENSE).
-
----
-
